@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8b9c95c-20fd-4a90-ac3f-0566a976b197" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../jest-esm-test/src/__test__/isDiagonal.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../jest-esm-test/src/__test__/isDiagonal.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../jest-esm-test/src/__test__/rotateMatrix.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../jest-esm-test/src/__test__/rotateMatrix.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../jest-esm-test/src/isDiagonal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../jest-esm-test/src/isDiagonal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../jest-esm-test/src/rotateMatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../jest-esm-test/src/rotateMatrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/States.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/States.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1cVEKWFk6RybNtss3tidPokcfax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-darwin-x64/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b9c95c-20fd-4a90-ac3f-0566a976b197" name="Default Changelist" comment="" />
+      <created>1590605297130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590605297130</updated>
+      <workItem from="1590605300305" duration="14740000" />
+      <workItem from="1597226639215" duration="1328000" />
+      <workItem from="1597408164427" duration="772000" />
+      <workItem from="1597607547761" duration="159000" />
+      <workItem from="1599122794272" duration="192000" />
+      <workItem from="1599487529173" duration="1529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="478" key="#ESLint" timestamp="1591023324753">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="757" y="478" key="#ESLint/0.0.1792.1120@0.0.1792.1120" timestamp="1591023324753" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591028410124">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1591028410124" />
+    <state width="1750" height="159" key="GridCell.Tab.0.bottom" timestamp="1597408112823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1597408112823" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1591087281238" />
+    <state width="1750" height="159" key="GridCell.Tab.0.center" timestamp="1597408112822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1597408112822" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1591087281237" />
+    <state width="1750" height="159" key="GridCell.Tab.0.left" timestamp="1597408112821">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1597408112821" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1591087281237" />
+    <state width="1750" height="159" key="GridCell.Tab.0.right" timestamp="1597408112822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1597408112822" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1591087281238" />
+    <state x="264" y="248" key="new project wizard" timestamp="1597226804709">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="264" y="245" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1591036119128" />
+    <state x="264" y="248" key="new project wizard/0.23.1792.1030@0.23.1792.1030" timestamp="1597226804709" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1590605818476">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1590605818476" />
+  </component>
+</project>

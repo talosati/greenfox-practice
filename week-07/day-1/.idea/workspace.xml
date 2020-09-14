@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7ade98a-12df-4287-81d2-61864b2fb98c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day-4/webshop/src/main/java/com/greenfoxacademy/webshop/controllers/WebShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-4/webshop/src/main/resources/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-4/webshop/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1awNvBJARzZMyO5k1uoxKuXMpUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TDD" />
+      <option name="MAIN_CLASS_NAME" value="TDD.PrimeFactorsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrimeFactorsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ade98a-12df-4287-81d2-61864b2fb98c" name="Default Changelist" comment="" />
+      <created>1587642924060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587642924060</updated>
+      <workItem from="1587642926903" duration="60000" />
+      <workItem from="1587643044618" duration="291000" />
+      <workItem from="1587649720499" duration="1027000" />
+      <workItem from="1587652268424" duration="710000" />
+      <workItem from="1587655454857" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="318" key="GridCell.Tab.0.bottom" timestamp="1587647153514">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587643143610" />
+    <state width="1358" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1587647153514" />
+    <state width="1358" height="318" key="GridCell.Tab.0.center" timestamp="1587647153513">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587643143608" />
+    <state width="1358" height="318" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1587647153513" />
+    <state width="1358" height="318" key="GridCell.Tab.0.left" timestamp="1587647153513">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587643143608" />
+    <state width="1358" height="318" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1587647153513" />
+    <state width="1358" height="318" key="GridCell.Tab.0.right" timestamp="1587647153513">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587643143609" />
+    <state width="1358" height="318" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1587647153513" />
+    <state x="775" y="318" key="SettingsEditor" timestamp="1587655525947">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="775" y="318" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1587655525947" />
+    <state x="775" y="327" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1587650254168" />
+    <state x="397" y="175" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1587643191049" />
+    <state x="593" y="459" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587643117997">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="593" y="459" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1792.1120@0.0.1792.1120" timestamp="1587643117997" />
+  </component>
+</project>
